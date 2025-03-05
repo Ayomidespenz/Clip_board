@@ -200,6 +200,9 @@ border-radius: 5px;
     margin-left: 10%;
     margin-top: 10px;
 }
+footer{
+    width: 100%;
+}
 
 
 
@@ -279,6 +282,7 @@ width: 95%;
     width: 94%;
     font-size: 25px;
 }
+
 .footercontainer{
     flex-direction: column ;
 }
